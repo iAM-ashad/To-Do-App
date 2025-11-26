@@ -2,7 +2,7 @@
 
 FoxToDo is a modern, clean, and fully offline Android to‑do application built using **Kotlin**, **Jetpack Compose**, **Hilt**, **Room**, and **MVVM with Clean Architecture principles**. It includes a rich calendar view, task management with priorities, categories, and a profile dashboard with analytics.
 
-This README describes the architecture, features, modules, technology stack, and how to run and extend the project.
+This README describes the architecture, features, modules, technology stack, and how to run the project.
 
 ---
 
