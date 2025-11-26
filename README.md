@@ -167,7 +167,7 @@ app/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/FoxToDo.git
+   git clone https://github.com/iAM-ashad/To-Do-App
    ```
 2. Open in Android Studio.
 3. Wait for Gradle sync.
